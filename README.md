@@ -9,6 +9,14 @@ Kashmir_Stone_Pelting_Detection_Projects
 
 # The object for making this model is stop stone pelting where this model can help the indian army and alert them when stone pelting is happening
 
+# Steps i followed
+1-Data Collection-
+i collected data from google and i also downloaded video from youtube and extracted frame from that youtube video with the help of python 
+
+2-Data Augmentation-
+I did Data Augmentation to increase the size of my test and train data so my model can predict more accurately
+
+3-Then finally i used pretrained vgg16 model and did transfer learning on it and trained my model for 100 epochs.
 
 
 
